@@ -20,7 +20,7 @@ public class giaiphuongtrinhbacnhat {
             }
 
          else{
-            double x = (double) -b / a;
+            double x =  -b / a;
             System.out.print("nghiem phuong trinh la : "+x );
                 }
 
